@@ -1,13 +1,7 @@
-# what
+# qwik
 
-it is a template for VitePress Site;
+qwik的中文文档
 
-it includes some configs out of box, e.g. sidebar and menus;
-
-you don't need waste your time on vitepress config;
-
-## how to use
-
-download this repo, and write your docs directly;
+[地址](https://qwik-cn.netlify.app/)
 
 
