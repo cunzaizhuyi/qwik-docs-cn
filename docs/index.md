@@ -1,28 +1,28 @@
 ---
 layout: home
 
-title: 飞叶网站
-titleTemplate: 写一些博客
+title: qwik
+titleTemplate: qwik中文文档
 
 hero:
-  name: 飞叶网站
-  text: 写点博客给你看
-  tagline: 欢迎光临.
+  name: qwik
+  text: qwik中文文档
+  tagline: 无须hydration，自动懒加载，极致性能.
   actions:
     - theme: brand
       text: Get Started
       link: /guide/getting-started
     - theme: alt
       text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/cunzaizhuyi/qwik-docs-cn
 
 features:
-  - title: "Vite: The DX that can't be beat"
-    details: Feel the speed of Vite. Instant server start and lightning fast HMR that stays fast regardless of the app size.
-  - title: Designed to be simplicity first
-    details: With Markdown-centered content, it's built to help you focus on writing and deployed with minimum configuration.
-  - title: Power of Vue meets Markdown
-    details: Enhance your content with all the features of Vue in Markdown, while being able to customize your site with Vue.
-  - title: Fully static yet still dynamic
-    details: Go wild with true SSG + SPA architecture. Static on page load, but engage users with 100% interactivity from there.
+  - title: "无须loading"
+    details: .
+  - title: 无hydration
+    details: 
+  - title: 懒加载
+    details: 
+  - title: 减少渲染次数
+    details: 
 ---
