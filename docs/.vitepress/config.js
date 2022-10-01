@@ -5,7 +5,7 @@ import menu3Sidebar from "./menu3Sidebar";
 export default {
     base: '/',
 
-    title: 'qwik', // 所有文档的浏览器标签title
+    title: 'Qwik', // 所有文档的浏览器标签title
     description: 'qwik中文文档', // 会渲染成<meta>标签，SEO用
 
     themeConfig: {

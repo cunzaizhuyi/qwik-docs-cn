@@ -1,12 +1,12 @@
 ---
 layout: home
 
-title: qwik
-titleTemplate: qwik中文文档
+title: Qwik
+titleTemplate: Qwik中文文档
 
 hero:
-  name: qwik
-  text: qwik中文文档
+  name: Qwik
+  text: Qwik中文文档
   tagline: 无须hydration，自动懒加载，极致性能.
   actions:
     - theme: brand
